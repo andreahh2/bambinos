@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/bambinos/index.html/static/css/main.bdfdece1.chunk.css",
+    "main.js": "/bambinos/index.html/static/js/main.a00e0331.chunk.js",
+    "main.js.map": "/bambinos/index.html/static/js/main.a00e0331.chunk.js.map",
+    "runtime-main.js": "/bambinos/index.html/static/js/runtime-main.7f754f3f.js",
+    "runtime-main.js.map": "/bambinos/index.html/static/js/runtime-main.7f754f3f.js.map",
+    "static/css/2.c4e73993.chunk.css": "/bambinos/index.html/static/css/2.c4e73993.chunk.css",
+    "static/js/2.597d5b92.chunk.js": "/bambinos/index.html/static/js/2.597d5b92.chunk.js",
+    "static/js/2.597d5b92.chunk.js.map": "/bambinos/index.html/static/js/2.597d5b92.chunk.js.map",
+    "index.html": "/bambinos/index.html/index.html",
+    "static/css/2.c4e73993.chunk.css.map": "/bambinos/index.html/static/css/2.c4e73993.chunk.css.map",
+    "static/css/main.bdfdece1.chunk.css.map": "/bambinos/index.html/static/css/main.bdfdece1.chunk.css.map",
+    "static/js/2.597d5b92.chunk.js.LICENSE.txt": "/bambinos/index.html/static/js/2.597d5b92.chunk.js.LICENSE.txt",
+    "static/media/Clasicos.29513b39.jpg": "/bambinos/index.html/static/media/Clasicos.29513b39.jpg",
+    "static/media/Clericot.8ef1c009.jpg": "/bambinos/index.html/static/media/Clericot.8ef1c009.jpg",
+    "static/media/Ensaladas.d90edd1d.jpg": "/bambinos/index.html/static/media/Ensaladas.d90edd1d.jpg",
+    "static/media/Entradas.7d918839.jpg": "/bambinos/index.html/static/media/Entradas.7d918839.jpg",
+    "static/media/typography.css": "/bambinos/index.html/static/media/IconosFuenteBambinos.5c5cb42c.otf",
+    "static/media/GIN.a3572337.jpg": "/bambinos/index.html/static/media/GIN.a3572337.jpg",
+    "static/media/GINTonic.f964c4dc.jpg": "/bambinos/index.html/static/media/GINTonic.f964c4dc.jpg",
+    "static/media/Litros.ac41ddb5.jpg": "/bambinos/index.html/static/media/Litros.ac41ddb5.jpg",
+    "static/media/Margaritas.37c4d624.jpg": "/bambinos/index.html/static/media/Margaritas.37c4d624.jpg",
+    "static/media/Mezcal.472df4f6.jpg": "/bambinos/index.html/static/media/Mezcal.472df4f6.jpg",
+    "static/media/Mojitos.121ebc14.jpg": "/bambinos/index.html/static/media/Mojitos.121ebc14.jpg",
+    "static/media/Pastas.4ebaaf75.jpg": "/bambinos/index.html/static/media/Pastas.4ebaaf75.jpg",
+    "static/media/Pizza.b1832dc7.jpg": "/bambinos/index.html/static/media/Pizza.b1832dc7.jpg",
+    "static/media/Pizzas.24eeb1f8.jpg": "/bambinos/index.html/static/media/Pizzas.24eeb1f8.jpg",
+    "static/media/PlatosFuertes.946d1bb4.jpg": "/bambinos/index.html/static/media/PlatosFuertes.946d1bb4.jpg",
+    "static/media/Postres.23a10cd4.jpg": "/bambinos/index.html/static/media/Postres.23a10cd4.jpg",
+    "static/media/banner.41e73e02.png": "/bambinos/index.html/static/media/banner.41e73e02.png",
+    "static/media/litros.5105fc6f.png": "/bambinos/index.html/static/media/litros.5105fc6f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f754f3f.js",
+    "static/css/2.c4e73993.chunk.css",
+    "static/js/2.597d5b92.chunk.js",
+    "static/css/main.bdfdece1.chunk.css",
+    "static/js/main.a00e0331.chunk.js"
+  ]
+}
