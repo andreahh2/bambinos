@@ -1,7 +1,7 @@
 {
   "name": "bambinos-menu",
   "version": "0.1.0",
-  "homepage": "https://andreahh2.github.io/bambinos",
+  "homepage": "https://andreahh2.github.io/bambinos/index.html",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
