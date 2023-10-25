@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "Nexa Slab xBold";
+  src: url("./Nexa-Slab/Fontfabric\ -\ NexaSlab-xBold.otf");
+}
+
+@font-face {
+  font-family: "Hk Grotesk Medium";
+  src: url("./Hk-Grotesk/HKGrotesk-Medium.ttf");
+}
+
+@font-face {
+  font-family: "Hk Grotesk Bold";
+  src: url("./Hk-Grotesk/HKGrotesk-Bold.ttf");
+}
+
+@font-face {
+  font-family: "Icons";
+  src: url("./icons/IconosFuenteBambinos.otf");
+}

@@ -1,0 +1,126 @@
+body {
+  background-color: #ede8e2 !important;
+}
+
+.img-banner {
+  width: 144pt;
+  padding-top: 10pt;
+  margin-bottom: 15pt;
+}
+
+.center-item {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.container-banner {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100vh;
+}
+
+.column {
+  flex: 1;
+  color: white;
+  background-color: red;
+  /* height: 100vh; */
+}
+
+.card-img-overlay {
+  background: linear-gradient(to top, black, transparent) !important;
+}
+
+.size-btn {
+  width: 25px;
+  height: 25px;
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+  font-size: 25pt !important;
+  color: #ede8e2 !important;
+  border-radius: 0 !important;
+}
+
+.no-image__content {
+  background-color: #b53924;
+  height: 103px;
+}
+
+.no-image__content-overlay {
+  width: 100%;
+}
+
+.time-clock {
+  color: #b53924;
+  font-size: 16pt !important;
+}
+
+.time-content {
+  margin-top: -3%;
+}
+
+.mas-vendido {
+  border: 1px solid #b53924;
+  padding: 10%;
+  white-space: nowrap;
+  position: absolute;
+  right: 0;
+  bottom: 0
+}
+
+.img-fluid-header {
+  max-width: 40%;
+  height: auto;
+}
+
+.img-litros {
+  width: 30%;
+  height: auto;
+}
+
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px){
+  .container-caption {
+    margin-top: 55% !important;
+  }
+  .img-banner {
+    width: 110pt;
+  }
+  .text-category {
+    font-size: 18pt !important;
+  }
+  .title-card {
+    font-size: 18pt !important;
+  }
+}
+
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+  .container-caption {
+    margin-top: 45% !important;
+  }
+}
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  .container-caption {
+    margin-top: 35% !important;
+  }
+}
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  .container-caption {
+    margin-top: 25% !important;
+  }
+}
+
+/* // X Large devices (desktops, 992px and up) */
+@media (min-width: 1200px) {
+  .container-caption {
+    margin-top: 20% !important;
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "./static/css/main.e8b602c8.chunk.css",
+    "main.js": "./static/js/main.d707480e.chunk.js",
+    "main.js.map": "./static/js/main.d707480e.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.e6f83f3f.js",
+    "runtime-main.js.map": "./static/js/runtime-main.e6f83f3f.js.map",
+    "static/css/2.c4e73993.chunk.css": "./static/css/2.c4e73993.chunk.css",
+    "static/js/2.ad89651d.chunk.js": "./static/js/2.ad89651d.chunk.js",
+    "static/js/2.ad89651d.chunk.js.map": "./static/js/2.ad89651d.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.c4e73993.chunk.css.map": "./static/css/2.c4e73993.chunk.css.map",
+    "static/css/main.e8b602c8.chunk.css.map": "./static/css/main.e8b602c8.chunk.css.map",
+    "static/js/2.ad89651d.chunk.js.LICENSE.txt": "./static/js/2.ad89651d.chunk.js.LICENSE.txt",
+    "static/media/Clasicos.29513b39.jpg": "./static/media/Clasicos.29513b39.jpg",
+    "static/media/Clericot.8ef1c009.jpg": "./static/media/Clericot.8ef1c009.jpg",
+    "static/media/Ensaladas.d90edd1d.jpg": "./static/media/Ensaladas.d90edd1d.jpg",
+    "static/media/Entradas.7d918839.jpg": "./static/media/Entradas.7d918839.jpg",
+    "static/media/typography.css": "./static/media/IconosFuenteBambinos.5c5cb42c.otf",
+    "static/media/GIN.a3572337.jpg": "./static/media/GIN.a3572337.jpg",
+    "static/media/GINTonic.f964c4dc.jpg": "./static/media/GINTonic.f964c4dc.jpg",
+    "static/media/Litros.ac41ddb5.jpg": "./static/media/Litros.ac41ddb5.jpg",
+    "static/media/Margaritas.37c4d624.jpg": "./static/media/Margaritas.37c4d624.jpg",
+    "static/media/Mezcal.472df4f6.jpg": "./static/media/Mezcal.472df4f6.jpg",
+    "static/media/Mojitos.121ebc14.jpg": "./static/media/Mojitos.121ebc14.jpg",
+    "static/media/Pastas.4ebaaf75.jpg": "./static/media/Pastas.4ebaaf75.jpg",
+    "static/media/Pizza.b1832dc7.jpg": "./static/media/Pizza.b1832dc7.jpg",
+    "static/media/Pizzas.24eeb1f8.jpg": "./static/media/Pizzas.24eeb1f8.jpg",
+    "static/media/PlatosFuertes.946d1bb4.jpg": "./static/media/PlatosFuertes.946d1bb4.jpg",
+    "static/media/Postres.23a10cd4.jpg": "./static/media/Postres.23a10cd4.jpg",
+    "static/media/banner.41e73e02.png": "./static/media/banner.41e73e02.png",
+    "static/media/litros.5105fc6f.png": "./static/media/litros.5105fc6f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6f83f3f.js",
+    "static/css/2.c4e73993.chunk.css",
+    "static/js/2.ad89651d.chunk.js",
+    "static/css/main.e8b602c8.chunk.css",
+    "static/js/main.d707480e.chunk.js"
+  ]
+}
